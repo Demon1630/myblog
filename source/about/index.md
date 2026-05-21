@@ -1,4 +1,8 @@
 ---
 title: about
-date: 2026-05-21 16:26:59
+date: 2018-09-30 17:25:30
+type: "about"
+layout: "about"
 ---
+
+一只小小胡！

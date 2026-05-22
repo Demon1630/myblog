@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "➕ 一键新建文章",
+            "type": "shell",
+            "command": ".\\一键新建文章.bat",
+            "problemMatcher": [],
+            "presentation": {
+                "focus": true,
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "⚡ 一键本地预览",
+            "type": "shell",
+            "command": ".\\一键本地预览.bat",
+            "problemMatcher": []
+        },
+        {
+            "label": "🚀 一键发布博客",
+            "type": "shell",
+            "command": ".\\一键发布博客.bat",
+            "problemMatcher": []
+        }
+    ]
+}

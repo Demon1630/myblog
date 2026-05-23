@@ -1,18 +1,15 @@
 ---
-title: "树莓派3b+安装openwrt并进行配置"
+title: 树莓派3b+安装openwrt并进行配置
 date: 2021-07-07
-categories: 
-  - "树莓派"
-tags: 
-  - "openwrt"
-  - "tor"
-  - "word"
-  - "密码"
-  - "新路由3"
-  - "树莓派"
-  - "路由器"
+categories:
+- 树莓派
+tags:
+- openwrt
+- 密码
+- 新路由3
+- 树莓派
+- 路由器
 ---
-
 之前有写文章讲使用新路由3刷老毛子固件从而实现上校园网和fq：
 
 # [newifi 3 路由器刷入老毛子固件教程](http://www.demon1630.cn/%e5%b0%8f%e7%99%bd%e4%b9%9f%e8%83%bd%e5%88%b7%ef%bc%8cnewifi-3-%e8%b7%af%e7%94%b1%e5%99%a8%e5%88%b7%e5%85%a5%e8%80%81%e6%af%9b%e5%ad%90%e5%9b%ba%e4%bb%b6%e6%95%99%e7%a8%8b/)

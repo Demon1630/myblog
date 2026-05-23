@@ -1,15 +1,14 @@
 ---
-title: "使用labview进行MODBUS通讯从而控制8路继电器"
+title: 使用labview进行MODBUS通讯从而控制8路继电器
 date: 2020-09-21
-categories: 
-  - "labview"
-  - "试验台架"
-tags: 
-  - "labview"
-  - "控制"
-  - "邮件"
+categories:
+- labview
+- 制冷技术
+tags:
+- labview
+- 控制
+- 邮件
 ---
-
 前面有文章讲到使用labview进行MODBUS通讯的几种方法，虽然理论上是有讲，但实际动手操作的时候还是出现了蛮多问题的，这次就以使用labview控制八路控制继电器来讲一下
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/09/1600690660-A7QTQI5AY03337F55K-743x1024.jpg)

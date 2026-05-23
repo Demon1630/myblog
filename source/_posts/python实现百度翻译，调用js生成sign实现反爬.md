@@ -1,16 +1,14 @@
 ---
-title: "python实现百度翻译，调用js生成sign实现反爬"
+title: python实现百度翻译，调用js生成sign实现反爬
 date: 2021-05-17
-categories: 
-  - "python"
-  - "技术"
-tags: 
-  - "python"
-  - "反爬虫"
-  - "百度sign"
-  - "翻译"
+categories:
+- python
+- 技术
+tags:
+- python
+- 反爬虫
+- 翻译
 ---
-
 项目地址：[百度翻译](https://github.com/Demon1630/python-practice/blob/main/%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91-js%E8%B0%83%E8%AF%95.py)
 
 主要通过分析百度翻译页面，查看其sign生成函数，将其调用到pyton中，从而实现反爬

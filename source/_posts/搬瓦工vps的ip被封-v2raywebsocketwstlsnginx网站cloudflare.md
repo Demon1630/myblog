@@ -1,27 +1,25 @@
 ---
-title: "搬瓦工vps的IP被封  V2Ray+WebSocket(ws)+TLS+Nginx+网站+Cloudflare"
+title: 搬瓦工vps的IP被封  V2Ray+WebSocket(ws)+TLS+Nginx+网站+Cloudflare
 date: 2020-05-19
-categories: 
-  - "宝塔面板"
-  - "技术"
-  - "搬瓦工"
-  - "wordpress"
-tags: 
-  - "cloudflare"
-  - "v2ray"
-  - "windows"
-  - "word"
-  - "wordpress"
-  - "免费域名"
-  - "图标"
-  - "域名"
-  - "宝塔面板"
-  - "控制"
-  - "搬瓦工"
-  - "网站"
-  - "邮件"
+categories:
+- 宝塔面板
+- 技术
+- 搬瓦工
+- wordpress
+tags:
+- cloudflare
+- v2ray
+- windows
+- wordpress
+- 免费域名
+- 图标
+- 域名
+- 宝塔面板
+- 控制
+- 搬瓦工
+- 网站
+- 邮件
 ---
-
 这里介绍的vps系统为centos7，其他系统建议重装系统为centos7，总体思路是这样的
 
 首先先安装宝塔面板，参考文章：[VPS安装宝塔面板](http://www.demon1630.cn/vps%e5%ae%89%e8%a3%85%e5%ae%9d%e5%a1%94%e9%9d%a2%e6%9d%bf/)

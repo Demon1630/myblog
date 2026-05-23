@@ -1,14 +1,12 @@
 ---
-title: "技术：VRV空调系统这样解释，小白也能看得懂"
+title: 技术：VRV空调系统这样解释，小白也能看得懂
 date: 2020-12-28
-categories: 
-  - "制冷技术"
-  - "文章采集"
-tags: 
-  - "vrv"
-  - "控制"
+categories:
+- 制冷技术
+tags:
+- vrv
+- 控制
 ---
-
 >        VRV：Variable Refrigerant Volume，可变冷媒流量空调系统。由日本大金（Dakin）公司于1982年末首先推出，近几年得到不断发展。
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/12/frc-9bfe1cb42fee8a3f621a314b453ce627.jpeg)

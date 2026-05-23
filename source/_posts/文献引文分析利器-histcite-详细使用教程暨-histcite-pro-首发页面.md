@@ -1,10 +1,11 @@
 ---
-title: "文献引文分析利器 HistCite 详细使用教程暨 HistCite Pro 首发页面"
+title: 文献引文分析利器 HistCite 详细使用教程暨 HistCite Pro 首发页面
 date: 2020-10-02
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- 科研工具
 ---
-
 > **说明：**这个知乎专栏是 HistCite Pro [唯一官方发布页面](https://zhuanlan.zhihu.com/p/20902898)，从本文链接下载的软件绝无病毒！如果遇到杀毒软件的误报，请放心添加信任！请不要从其他下载站下载本程序！  
 > 有任何问题请到我的微信公众号“**科研利器**”反馈。
 

@@ -1,18 +1,13 @@
 ---
-title: "只需一条命令，快速在Windows 10上关闭Linux"
+title: 只需一条命令，快速在Windows 10上关闭Linux
 date: 2022-11-26
-categories: 
-  - "wordpress"
-tags: 
-  - "scr"
-  - "windows"
-  - "word"
-  - "wsl"
-  - "视频"
+categories:
+- wordpress
+tags:
+- windows
+- wsl
+- 视频
 ---
-
-   
-
 尽管Windows Subsystem for Linux(WSL)是与windows10一起运行Linux发行版的一种方便方法，但轻量级虚拟机将继续在后台运行，即使你退出命令shell，也会浪费系统资源。
 
 如果你希望在使用完Linux发行版(Ubuntu、Kali、Debian等)后立即终止它，或者需要重新启动它，那么可以使用wsl命令手动关闭一个或所有发行版。

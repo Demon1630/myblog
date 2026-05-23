@@ -1,18 +1,17 @@
 ---
-title: "GitHub pages+hexo+vs code一站式博客编写发布流程"
+title: GitHub pages+hexo+vs code一站式博客编写发布流程
 date: 2026-05-21
 categories:
-  - "博客搭建"
+- 技术
 tags:
-  - "Hexo"
-  - "GitHub Pages"
-  - "VS Code"
+- Hexo
+- GitHub Pages
+- VS Code
 img: /medias/featureimages/0.jpg
 summary: 精简优雅的 Hexo 博客搭建与发布全纪录。
 top: false
 cover: false
 ---
-
 ## 前言
 
 作为一个技术人员，拥有自己的博客网站是一件很有意义的事情。以前搭建博客往往需要购买服务器、域名，还要配置数据库、环境等，既费钱又费时。而利用 **GitHub Pages + Hexo** 这套方案，完全免费就能搭建一个美观、快速、易维护的个人博客网站，配合 VS Code 进行写作，体验非常流畅。

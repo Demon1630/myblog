@@ -1,10 +1,12 @@
 ---
-title: "Python爬虫库的安装"
+title: Python爬虫库的安装
 date: 2020-04-29
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- python
+- 爬虫
 ---
-
         首先，安装**request爬虫库**:
 
             作用 : 相当于浏览器 客户端发送请求

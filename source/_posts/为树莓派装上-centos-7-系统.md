@@ -1,12 +1,11 @@
 ---
-title: "为树莓派装上 CentOS 7 系统"
+title: 为树莓派装上 CentOS 7 系统
 date: 2021-11-21
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- 树莓派
 ---
-
-   
-
 ## **⚠️ 注意**
 
 在操作之前，请先备份好树莓派 SD 卡上的重要数据。接下来的操作会抹掉整张 SD 卡！

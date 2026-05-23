@@ -1,14 +1,12 @@
 ---
-title: "固态继电器（SSR）简介"
+title: 固态继电器（SSR）简介
 date: 2020-07-21
-categories: 
-  - "技术"
-  - "文章采集"
-  - "试验台架"
-tags: 
-  - "ssr"
+categories:
+- 技术
+- 制冷技术
+tags:
+- ssr
 ---
-
 ## §1. 什么是固态继电器？
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/07/1595322508-ssr1-1024x308.jpg)

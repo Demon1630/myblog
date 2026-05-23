@@ -1,10 +1,12 @@
 ---
-title: "Windows平台下使用 Rclone 挂载 OneDrive 为本地硬盘"
+title: Windows平台下使用 Rclone 挂载 OneDrive 为本地硬盘
 date: 2020-05-30
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- windows
+- 云盘
 ---
-
 ## **Windows平台下使用 Rclone 挂载 OneDrive 为本地硬盘**
 
 Rclone (rsync for cloud storage) 是一个命令行程序,用于同步文件和目录，支持常见的 Amazon Drive 、Google Drive 、OneDrive 、Dropbox 等云存储。本文将演示在 Windows 平台下将 OneDrive 挂载为本地硬盘，并使用跨平台的 Rclone GUI 连接到云盘。

@@ -1,16 +1,13 @@
 ---
-title: "申请及在手机就上使用最新chatgpt版必应"
+title: 申请及在手机就上使用最新chatgpt版必应
 date: 2023-02-28
-categories: 
-  - "技术"
-tags: 
-  - "bing"
-  - "chatgpt"
-  - "图标"
-  - "必应"
-  - "邮件"
+categories:
+- 技术
+tags:
+- ChatGPT
+- 图标
+- 邮件
 ---
-
 chatgpt最近很火，网上也很多讲解如何申请chatgpt的教程，不过目前openai旗下的chatgpt数据只有2021年前的，而且其无法联网查询最新讯息，不过搭载chatgpt版的必应已经来了，其申请教程网上也有很多，这里简要介绍一下，同时介绍一下申请通过之后如何在手机上使用最新的带chatgpt的必应
 
 首先开启VPN全局模式，下载Dev版本的edg：[https://www.microsoftedgeinsider.com/zh-cn/download/dev](https://www.microsoftedgeinsider.com/zh-cn/download/dev)

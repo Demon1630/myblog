@@ -1,14 +1,11 @@
 ---
-title: "免费申请office E5开发者订阅，附无限续期+私人网盘教程"
+title: 免费申请office E5开发者订阅，附无限续期+私人网盘教程
 date: 2020-06-01
-categories: 
-  - "技术"
-  - "文章采集"
-tags: 
-  - "tor"
-  - "网站"
+categories:
+- 技术
+tags:
+- 网站
 ---
-
 > 本文永久更新修正地址：[https://blog.devyi.com/archives/388](https://link.zhihu.com/?target=https%3A//blog.devyi.com/archives/388)
 
 ## **前言**

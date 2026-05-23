@@ -1,14 +1,13 @@
 ---
-title: "labview生成十六进制CRC校验码"
+title: labview生成十六进制CRC校验码
 date: 2020-09-24
-categories: 
-  - "labview"
-  - "试验台架"
-tags: 
-  - "labview"
-  - "控制"
+categories:
+- labview
+- 制冷技术
+tags:
+- labview
+- 控制
 ---
-
 上一篇文章讲到了使用labview进行MODBUS通讯控制继电器，不过里面只是简单的把控制命令输入到继电器中，对于控制命令如何来没有讲，这次就来讲一下如何生成控制命令。
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/09/1600958229-CRC码1.png)

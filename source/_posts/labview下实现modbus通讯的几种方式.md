@@ -1,16 +1,13 @@
 ---
-title: "LabVIEW下实现Modbus通讯的几种方式"
+title: LabVIEW下实现Modbus通讯的几种方式
 date: 2020-07-30
-categories: 
-  - "labview"
-  - "技术"
-  - "文章采集"
-tags: 
-  - "labview"
-  - "scr"
-  - "控制"
+categories:
+- labview
+- 技术
+tags:
+- labview
+- 控制
 ---
-
 ## 1\. Modbus简介
 
 Modbus是Modicon公司（现在已经被施耐德收购成为了施耐德旗下品牌）为其PLC通讯而开发的一种通讯协议，从1979年问世至今，已经成为工业通讯领域的业界标准（De facto)，最初的Modbus通讯协议仅支持串口，分为Modbus RTU和ACSII两种信号传输模式（一般基于RS485串口通信媒介），而随着时代进步，Modbus也与时俱进，新增了Modbus TCP版本，可以通过以太网进行通讯，此外，Modbus还有一个Modicon专用的Modbus Plus（Modbus +）版本。和其他工业通信协议相比，Modbus主要的优点包括内容公开没有版权要求，不用支付额外费用、硬件要求简单容易部署、使用广泛便于系统集成。Modbus采用半双工的通讯方式，由1个子站和多个从站组成，允许多个设备连接在同一个网络上进行通讯。

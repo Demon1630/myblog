@@ -1,14 +1,12 @@
 ---
-title: "linux使用rclone挂载onedrive作为挂载盘"
+title: linux使用rclone挂载onedrive作为挂载盘
 date: 2020-11-01
-categories: 
-  - "技术"
-  - "wordpress"
-tags: 
-  - "scr"
-  - "windows"
+categories:
+- 技术
+- wordpress
+tags:
+- windows
 ---
-
 **注意：**服务器最好是KVM的，OpenVZ需要给你的服务商发TK告诉他们开一下FUSE，如果没有FUSE是没办法挂载的。
 
 首先我们需要先获取到onedrive的access\_token

@@ -1,10 +1,12 @@
 ---
-title: "[日常踩坑系类] Python pip安装时，报错ValueError: check_hostname requires server_hostname"
+title: '[日常踩坑系类] Python pip安装时，报错ValueError: check_hostname requires server_hostname'
 date: 2021-06-27
-categories: 
-  - "wordpress"
+categories:
+- 技术
+tags:
+- python
+- 故障排查
 ---
-
 ## 现象
 
 换了台新环境，安装第三方库老是报错，如图：  

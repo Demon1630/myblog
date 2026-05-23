@@ -1,16 +1,14 @@
 ---
-title: "nextcloud挂载onedrive作为外接盘"
+title: nextcloud挂载onedrive作为外接盘
 date: 2020-11-02
-categories: 
-  - "技术"
-  - "wordpress"
-tags: 
-  - "nextcloud"
-  - "tor"
-  - "私有云盘"
-  - "网站"
+categories:
+- 技术
+- wordpress
+tags:
+- nextcloud
+- 云盘
+- 网站
 ---
-
 使用nextcloud作为私人网盘还是不错的，安装nextcloud可以查看文章
 
 # [vps使用nextcloud搭建个人私有云盘](http://www.demon1630.cn/vps%e4%bd%bf%e7%94%a8nextcloud%e6%90%ad%e5%bb%ba%e4%b8%aa%e4%ba%ba%e7%a7%81%e6%9c%89%e4%ba%91%e7%9b%98/)

@@ -1,15 +1,12 @@
 ---
-title: "LabVIEW2018软件安装教程"
+title: LabVIEW2018软件安装教程
 date: 2020-12-14
-categories: 
-  - "labview"
-  - "文章采集"
-tags: 
-  - "labview"
-  - "tor"
-  - "控制"
+categories:
+- labview
+tags:
+- labview
+- 控制
 ---
-
 ![](http://www.demon1630.cn/wp-content/uploads/2020/12/frc-03a9ecd9c303e25eb6163c14251d8d3c.gif)
 
 软件

@@ -1,10 +1,11 @@
 ---
-title: "树莓派3 GPIO 介绍及 RPi.GPIO 库的使用"
+title: 树莓派3 GPIO 介绍及 RPi.GPIO 库的使用
 date: 2020-06-21
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- 树莓派
 ---
-
 下图中的40个引脚就是 GPIO 了，把 官方文档 中的介绍总结了一下。
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/06/frc-981774ae586dbc8ae7362a91124de631.jpg)

@@ -1,14 +1,12 @@
 ---
-title: "在树莓派中让nps服务开机自启动"
+title: 在树莓派中让nps服务开机自启动
 date: 2021-01-16
-categories: 
-  - "树莓派"
-tags: 
-  - "nps"
-  - "tor"
-  - "树莓派"
+categories:
+- 树莓派
+tags:
+- nps
+- 树莓派
 ---
-
 之前文章中有介绍如何配置nps内网穿透：[nps实现树莓派内网穿透](http://www.demon1630.cn/nps%e5%ae%9e%e7%8e%b0%e6%a0%91%e8%8e%93%e6%b4%be%e5%86%85%e7%bd%91%e7%a9%bf%e9%80%8f/)
 
 这里介绍一下如何开机自启动树莓派上布置的nps服务

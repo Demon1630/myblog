@@ -1,22 +1,20 @@
 ---
-title: "使用aria2 + rclone +谷歌无线容量团队盘-实现离线下载"
+title: 使用aria2 + rclone +谷歌无线容量团队盘-实现离线下载
 date: 2020-05-05
-categories: 
-  - "技术"
-  - "推荐软件"
-  - "搬瓦工"
-  - "wordpress"
-tags: 
-  - "scr"
-  - "wordpress"
-  - "域名"
-  - "宝塔面板"
-  - "搬瓦工"
-  - "离线下载"
-  - "网站"
-  - "谷歌网盘"
+categories:
+- 技术
+- 推荐软件
+- 搬瓦工
+- wordpress
+tags:
+- wordpress
+- 域名
+- 宝塔面板
+- 搬瓦工
+- 离线下载
+- 网站
+- 谷歌云盘
 ---
-
 ## 1.前提
 
 首先需要有自己的vps，这里以搬瓦工vps为例，如何获取搬瓦工vps可以查看文章：[搬瓦工vps购买教程](http://www.demon1630.cn/%e6%90%ac%e7%93%a6%e5%b7%a5vps%e8%b4%ad%e4%b9%b0/)

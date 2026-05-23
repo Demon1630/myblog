@@ -1,14 +1,12 @@
 ---
-title: "在labview中调用图表时每次进行清零"
+title: 在labview中调用图表时每次进行清零
 date: 2020-07-23
-categories: 
-  - "labview"
-  - "技术"
-  - "文章采集"
-tags: 
-  - "labview"
+categories:
+- labview
+- 技术
+tags:
+- labview
 ---
-
 ## 问题详述
 
 我在LabVIEW的前面板上有一个图表和一个图形，但我找到的能清除它的唯一方法是右键单击图表或图形，然后从快捷菜单中选择**数据操作»清除图表**或**数据操作»清除图形** 。有没有办法以编程方式清除图表或图形？

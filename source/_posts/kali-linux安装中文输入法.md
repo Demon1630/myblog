@@ -1,13 +1,11 @@
 ---
-title: "Kali Linux安装中文输入法"
+title: Kali Linux安装中文输入法
 date: 2021-01-08
-categories: 
-  - "kali-linux"
-  - "文章采集"
-tags: 
-  - "kali-linux"
+categories:
+- kali-linux
+tags:
+- kali-linux
 ---
-
 # Kali Linux安装中文输入法
 
 Kali Linux系统安装后，默认没有中文输入法。如果用户需要输入汉字，则需要安装中文输入法。下面将介绍安装小企鹅中文输入法，并进行配置。操作步骤如下所示：

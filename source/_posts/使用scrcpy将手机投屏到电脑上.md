@@ -1,16 +1,12 @@
 ---
-title: "使用scrcpy将手机投屏到电脑上"
+title: 使用scrcpy将手机投屏到电脑上
 date: 2021-05-05
-categories: 
-  - "技术"
-tags: 
-  - "scr"
-  - "scrcpy"
-  - "手机投屏"
-  - "投屏"
-  - "控制"
+categories:
+- 技术
+tags:
+- 投屏
+- 控制
 ---
-
 scrcpy就是通过adb调试的方式来将手机屏幕投到电脑上，并可以通过电脑控制您的Android设备。它可以通过USB连接，也可以通过Wifi连接（类似于隔空投屏），而且不需要任何root权限，不需要在手机里安装任何程序。scrcpy同时适用于GNU / Linux，Windows和macOS。
 
 scrcpy是开源项目，项目地址：[https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)

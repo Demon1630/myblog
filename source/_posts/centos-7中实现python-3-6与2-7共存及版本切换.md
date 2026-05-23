@@ -1,10 +1,11 @@
 ---
-title: "CentOS 7中实现Python 3.6与2.7共存及版本切换"
+title: CentOS 7中实现Python 3.6与2.7共存及版本切换
 date: 2020-04-29
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- python
 ---
-
 貌似目前大多数Linux发行版本中自带的Python还都是2.7.x系列,但是越来越多的包包都开始抛弃2.7.x版本了,记录一下在CentOS 7中安装Python 3.6实现与自带2.7两个版本共存并可以自由切换
 
 # 1.安装Python 3.6和pip

@@ -1,14 +1,13 @@
 ---
-title: "labview中十六进制转换为二进制"
+title: labview中十六进制转换为二进制
 date: 2020-10-08
-categories: 
-  - "labview"
-  - "试验台架"
-tags: 
-  - "labview"
-  - "邮件"
+categories:
+- labview
+- 制冷技术
+tags:
+- labview
+- 邮件
 ---
-
 在labview中进行MODBUS通讯时，有需要将十六进制转换为二进制的需求
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/10/1602136870-十六进制转换为二进制1-1024x110.png)

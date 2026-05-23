@@ -1,13 +1,11 @@
 ---
-title: "史上最全Docker环境安装指南"
+title: 史上最全Docker环境安装指南
 date: 2020-05-18
-categories: 
-  - "技术"
-tags: 
-  - "docker"
-  - "tor"
+categories:
+- 技术
+tags:
+- docker
 ---
-
 ### 一、思考❓❔
 
 ### 1.什么是Docker?

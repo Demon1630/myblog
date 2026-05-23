@@ -1,10 +1,12 @@
 ---
-title: "【win】VMware 15.5 虚拟机软件及永久许可证"
+title: 【win】VMware 15.5 虚拟机软件及永久许可证
 date: 2020-06-01
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- 推荐软件
+- 虚拟机
 ---
-
 ﻿![](http://www.demon1630.cn/wp-content/uploads/2020/06/frc-92d0869edf7e788fcbc2b8629d6a3376.gif)
 
   

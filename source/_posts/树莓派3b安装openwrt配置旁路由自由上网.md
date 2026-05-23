@@ -1,18 +1,16 @@
 ---
-title: "树莓派3b安装openwrt配置旁路由自由上网"
+title: 树莓派3b安装openwrt配置旁路由自由上网
 date: 2021-11-13
-categories: 
-  - "树莓派"
-tags: 
-  - "openwrt"
-  - "v2ray"
-  - "word"
-  - "密码"
-  - "旁路由"
-  - "树莓派"
-  - "路由器"
+categories:
+- 树莓派
+tags:
+- openwrt
+- v2ray
+- 密码
+- 旁路由
+- 树莓派
+- 路由器
 ---
-
 前面有文章讲了树莓派安装luci版openwrt作为路由自由上网，参考文章：[树莓派3b+安装luci版openwrt解决无法连接网络并配置v2ray](http://www.demon1630.cn/%e6%a0%91%e8%8e%93%e6%b4%be3b%e5%ae%89%e8%a3%85luci%e7%89%88openwrt%e8%a7%a3%e5%86%b3%e6%97%a0%e6%b3%95%e8%bf%9e%e6%8e%a5%e7%bd%91%e7%bb%9c%e5%b9%b6%e9%85%8d%e7%bd%aev2ray/)
 
 但由于树莓派自身信号不是很好，还是不如好一点的路由器信号好，最近入手了一个京东云，采用wifi6，信号强度和稳定性都不错，但是由于不打算把其刷为openwrt，所以其本身的可玩性不高，也不能直接通过路由器之间自由上网。故考虑用树莓派作为旁路由，然后京东云wifi作为ap，就可以同时实现了

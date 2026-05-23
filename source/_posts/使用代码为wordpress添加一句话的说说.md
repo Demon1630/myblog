@@ -1,15 +1,13 @@
 ---
-title: "使用代码为WordPress添加一句话的说说"
+title: 使用代码为WordPress添加一句话的说说
 date: 2020-06-23
-categories: 
-  - "技术"
-  - "wordpress"
-tags: 
-  - "tor"
-  - "网站"
-  - "网站建设"
+categories:
+- 技术
+- wordpress
+tags:
+- 网站
+- 网站建设
 ---
-
 有时候想每天用一句话来总结一下，但又不知道写在哪里好，现在可以直接到WordPress上添加了，效果如下：
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/06/1592882462-说说1-1024x395.png)

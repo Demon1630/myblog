@@ -1,10 +1,11 @@
 ---
-title: "WordPress如何登入后控制重定向到其他页面"
+title: WordPress如何登入后控制重定向到其他页面
 date: 2019-10-31
-categories: 
-  - "wordpress"
+categories:
+- wordpress
+tags:
+- wordpress
 ---
-
 WordPress因为用户登入后会直接进入用户后台，但有时候我们并不想订阅用户进入后台，这时候就可以用下面的代码将我们登入后重定向到其他页面：
 
 ```

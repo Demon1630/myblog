@@ -1,13 +1,11 @@
 ---
-title: "kali linux使用apt-get更新全过程"
+title: kali linux使用apt-get更新全过程
 date: 2021-01-11
-categories: 
-  - "kali-linux"
-tags: 
-  - "kali-linux"
-  - "tor"
+categories:
+- kali-linux
+tags:
+- kali-linux
 ---
-
 ### _0x00 修改更新源_
 
 ```

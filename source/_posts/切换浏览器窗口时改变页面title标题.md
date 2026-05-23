@@ -1,13 +1,11 @@
 ---
-title: "切换浏览器窗口时改变页面title标题"
+title: 切换浏览器窗口时改变页面title标题
 date: 2021-01-13
-categories: 
-  - "wordpress"
-tags: 
-  - "scr"
-  - "网站建设"
+categories:
+- wordpress
+tags:
+- 网站建设
 ---
-
 之前看到别人博客上，在切换到其他窗口时，浏览器的页面title就发生了改变，感觉很有趣，这里介绍一下
 
 首先，正常情况下显示是这样： ![](https://cdn.jsdelivr.net/gh/Demon1630/picBed/img/20210113195755.png)

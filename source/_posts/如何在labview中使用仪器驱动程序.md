@@ -1,14 +1,12 @@
 ---
-title: "如何在LabVIEW中使用仪器驱动程序"
+title: 如何在LabVIEW中使用仪器驱动程序
 date: 2020-05-14
-categories: 
-  - "labview"
-  - "技术"
-tags: 
-  - "labview"
-  - "tor"
+categories:
+- labview
+- 技术
+tags:
+- labview
 ---
-
 ## 目录
 
 1. 仪器驱动程序概述

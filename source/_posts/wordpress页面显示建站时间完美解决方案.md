@@ -1,15 +1,13 @@
 ---
-title: "WordPress页面显示建站时间完美解决方案"
+title: WordPress页面显示建站时间完美解决方案
 date: 2019-10-23
-categories: 
-  - "wordpress"
-tags: 
-  - "scr"
-  - "wordpress"
-  - "网站"
-  - "网站建设"
+categories:
+- wordpress
+tags:
+- wordpress
+- 网站
+- 网站建设
 ---
-
     WordPress在页面上如果想显示一个统计时间的话，可以不需要使用插件，直接在外观>主题编辑器>footer.php文件中，将以下代码放到最前面然后更新文件即可实现，具体代码如下，实现的情况可以参考[主页](https://www.demon1630.cf)下方时间显示情况：
 
  

@@ -1,16 +1,14 @@
 ---
-title: "在ESXI 虚拟机上安装群晖 7.0 (DSM7.0.1)教程"
+title: 在ESXI 虚拟机上安装群晖 7.0 (DSM7.0.1)教程
 date: 2023-09-11
-categories: 
-  - "wordpress"
-tags: 
-  - "nas"
-  - "scr"
-  - "群晖"
-  - "路由器"
-  - "软件"
+categories:
+- wordpress
+tags:
+- nas
+- 群晖
+- 路由器
+- 软件
 ---
-
 ## 一、安装步骤：先下载启动文件及系统文件
 
 下载DS918的系统文件及引导文件

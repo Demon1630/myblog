@@ -1,14 +1,11 @@
 ---
-title: "kali设置打开终端的快捷键"
+title: kali设置打开终端的快捷键
 date: 2021-01-09
-categories: 
-  - "kali-linux"
-  - "文章采集"
-tags: 
-  - "kali-linux"
-  - "tor"
+categories:
+- kali-linux
+tags:
+- kali-linux
 ---
-
 kali中没有设置像ubuntu中一样ctrl+alt+t这样打开终端的快捷键。 因此都需要单击打开终端，很麻烦。 但是我们可以自行设置打开终端的快捷键。
 
 # 设置打开终端的快捷键

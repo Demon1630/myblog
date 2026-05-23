@@ -1,16 +1,14 @@
 ---
-title: "弃用server酱，python使用企业微信小程序发送消息到微信中"
+title: 弃用server酱，python使用企业微信小程序发送消息到微信中
 date: 2021-06-14
-categories: 
-  - "推荐软件"
-tags: 
-  - "python"
-  - "scr"
-  - "telegram"
-  - "企业微信"
-  - "视频"
+categories:
+- 推荐软件
+tags:
+- python
+- telegram
+- 企业微信
+- 视频
 ---
-
 由于微信网页端口关闭了，现在基本上不能直接利用python调用微信来发送消息通知了，虽然有server酱，使用也很广泛，但随着server酱改版。。。
 
 ![](https://cdn.jsdelivr.net/gh/Demon1630/picBed/img/20210614184220.png)

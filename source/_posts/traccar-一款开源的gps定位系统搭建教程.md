@@ -1,23 +1,20 @@
 ---
-title: "traccar——一款开源的GPS定位系统搭建教程"
+title: traccar——一款开源的GPS定位系统搭建教程
 date: 2020-04-18
-categories: 
-  - "技术"
-tags: 
-  - "gps定位"
-  - "traccar"
-  - "vpn"
-  - "word"
-  - "宝塔面板"
-  - "密码"
-  - "搬瓦工"
-  - "数据库"
-  - "网站"
-  - "软件"
-  - "邮件"
-  - "邮箱"
+categories:
+- 技术
+tags:
+- gps定位
+- vpn
+- 宝塔面板
+- 密码
+- 搬瓦工
+- 数据库
+- 网站
+- 软件
+- 邮件
+- 邮箱
 ---
-
 # \[striped\]\[/striped\]
 
 # 一 、什么是traccar

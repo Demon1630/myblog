@@ -1,16 +1,14 @@
 ---
-title: "小白也能刷，newifi 3 路由器刷入老毛子固件教程"
+title: 小白也能刷，newifi 3 路由器刷入老毛子固件教程
 date: 2021-01-19
-categories: 
-  - "技术"
-tags: 
-  - "newifi3"
-  - "scr"
-  - "控制"
-  - "新路由3"
-  - "路由器"
+categories:
+- 技术
+tags:
+- newifi3
+- 控制
+- 新路由3
+- 路由器
 ---
-
 ![](https://pic2.zhimg.com/v2-1383e91276aa4255bd8e424b49e2fb25_b.gif)
 
 ![](http://www.demon1630.cn/wp-content/uploads/2021/01/frc-e714c1013a64223e845f754001f2eeb6.gif)

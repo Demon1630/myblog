@@ -1,8 +1,10 @@
 ---
-title: "Xmind ZEN2021​安装教程"
+title: Xmind ZEN2021​安装教程
 date: 2021-09-19
-categories: 
-  - "wordpress"
+categories:
+- 推荐软件
+tags:
+- 推荐软件
 ---
 
 ![](http://www.demon1630.cn/wp-content/uploads/2021/09/frc-4d20745c8165698fc6e28fce0a946929.gif)  

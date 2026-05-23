@@ -1,17 +1,15 @@
 ---
-title: "使用uptime-status搭建网站监控面板"
+title: 使用uptime-status搭建网站监控面板
 date: 2021-03-24
-categories: 
-  - "wordpress"
-tags: 
-  - "cloudflare"
-  - "tor"
-  - "域名"
-  - "网站"
-  - "网站监控"
-  - "邮箱"
+categories:
+- wordpress
+tags:
+- cloudflare
+- 域名
+- 网站
+- 网站监控
+- 邮箱
 ---
-
 uptime status是基于uptimerobot 的api调用的网站监控面板，uptimerobot是一家能够提供服务器定时监控服务的网站，可以利用其服务器监测你的网站响应状态
 
 # 创建UptimeRobot 监控API

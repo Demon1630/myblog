@@ -1,20 +1,18 @@
 ---
-title: "openwrt配置NPS实现内网穿透远程登入后台管理并解决Rejected request from RFC1918 IP to public server address问题"
+title: openwrt配置NPS实现内网穿透远程登入后台管理并解决Rejected request from RFC1918 IP to public server address问题
 date: 2021-11-14
-categories: 
-  - "树莓派"
-tags: 
-  - "newifi3"
-  - "nps"
-  - "openwrt"
-  - "word"
-  - "密码"
-  - "新路由3"
-  - "旁路由"
-  - "树莓派"
-  - "路由器"
+categories:
+- 树莓派
+tags:
+- newifi3
+- nps
+- openwrt
+- 密码
+- 新路由3
+- 旁路由
+- 树莓派
+- 路由器
 ---
-
 最近在树莓派上安装了openwrt然后配置为旁路由，参考文章：[树莓派3b安装openwrt配置旁路由自由上网](http://www.demon1630.cn/%e6%a0%91%e8%8e%93%e6%b4%be3b%e5%ae%89%e8%a3%85openwrt%e9%85%8d%e7%bd%ae%e6%97%81%e8%b7%af%e7%94%b1%e8%87%aa%e7%94%b1%e4%b8%8a%e7%bd%91/)
 
 发现openwrt功能还是很强大的，但由于其后台管理只能在局域网内进行，但其可以配置内网穿透，包括frp、nps这些常见的，个人觉得nps配置更加简单，之前使用新路由3的时候也写过文章介绍如何使用nps实现远程管理路由器后台：[使用nps远程管理（newifi3）新路由3的Web页面](http://www.demon1630.cn/%e4%bd%bf%e7%94%a8nps%e8%bf%9c%e7%a8%8b%e7%ae%a1%e7%90%86%ef%bc%88newifi3%ef%bc%89%e6%96%b0%e8%b7%af%e7%94%b13%e7%9a%84web%e9%a1%b5%e9%9d%a2/)，前提也是要先在个人服务器上配置好服务端，nps服务端的安装参考文章：[nps实现树莓派内网穿透](http://www.demon1630.cn/nps%e5%ae%9e%e7%8e%b0%e6%a0%91%e8%8e%93%e6%b4%be%e5%86%85%e7%bd%91%e7%a9%bf%e9%80%8f/)，很简单，配置好后到进入nps管理后台

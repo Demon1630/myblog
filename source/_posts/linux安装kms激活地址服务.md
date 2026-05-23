@@ -1,12 +1,11 @@
 ---
-title: "Linux安装KMS激活地址服务"
+title: Linux安装KMS激活地址服务
 date: 2020-05-17
-categories: 
-  - "技术"
-tags: 
-  - "windows激活"
+categories:
+- 技术
+tags:
+- KMS激活
 ---
-
 ## 介绍
 
 `KMS`是`Key Management System`的缩写，也就是密钥管理系统。这里所说的`KMS`毋庸置疑就是用来激活`VOL`版本的`Windows`和`Office`的`KMS`啦。经常能在网上看到有人提供的`KMS`服务器地址，那么你有没有想过自己也来搞一个这样的服务呢？而这样的服务在`Github`上已经有开源代码实现了； 本文就是在这个开源代码的基础上，开发了适用于三大`Linux`发行版的一键安装`KMS`服务的脚本

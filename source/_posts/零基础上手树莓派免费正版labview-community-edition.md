@@ -1,17 +1,14 @@
 ---
-title: "零基础上手树莓派+免费正版LabVIEW Community Edition"
+title: 零基础上手树莓派+免费正版LabVIEW Community Edition
 date: 2020-05-21
-categories: 
-  - "labview"
-  - "文章采集"
-  - "树莓派"
-tags: 
-  - "labview"
-  - "tor"
-  - "树莓派"
-  - "视频"
+categories:
+- labview
+- 树莓派
+tags:
+- labview
+- 树莓派
+- 视频
 ---
-
 上个月底，针对个人项目使用的LabVIEW Community Edition（LabVIEW大众版和LabVIEW NXG大众版）正式发布。LabVIEW大众版将**免费**提供给非商业用户使用，该版本提供了与LabVIEW专业版相同的功能。
 
 ![](http://www.demon1630.cn/wp-content/uploads/2020/05/frc-b6d50f14311f8528cd806182742a648c-1024x283.png)

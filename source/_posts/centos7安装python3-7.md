@@ -1,15 +1,13 @@
 ---
-title: "centos7安装python3.7和部分库"
+title: centos7安装python3.7和部分库
 date: 2021-06-14
-categories: 
-  - "python"
-tags: 
-  - "python"
-  - "python3"
-  - "telegram"
-  - "word"
+categories:
+- python
+tags:
+- python
+- python3
+- telegram
 ---
-
 按照命令一步步来，实在不行重装系统后再重新开始安装
 
 ## 先配置安装环境

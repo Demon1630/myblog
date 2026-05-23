@@ -1,15 +1,13 @@
 ---
-title: "Excel调用Nist RefProp计算介质物性"
+title: Excel调用Nist RefProp计算介质物性
 date: 2020-05-20
-categories: 
-  - "excel"
-  - "制冷技术"
-tags: 
-  - "excel"
-  - "refprop"
-  - "tor"
+categories:
+- excel
+- 制冷技术
+tags:
+- excel
+- refprop
 ---
-
 Nist Refprop 是一个常用到的物性计算软件，在 Excel 中调用起来也比较方便。
 
 ## 1\. 安装 Nist Refprop V9.1

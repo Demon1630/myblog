@@ -1,14 +1,12 @@
 ---
-title: "Word中给公式自动编号"
+title: Word中给公式自动编号
 date: 2021-03-15
-categories: 
-  - "wordpress"
-tags: 
-  - "scr"
-  - "word"
-  - "域名"
+categories:
+- wordpress
+tags:
+- word
+- 域名
 ---
-
 以我瞎写的四个公式为例：  
 
   

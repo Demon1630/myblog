@@ -1,15 +1,14 @@
 ---
-title: "使用路由器Padavan老毛子固件开启本地KMS激活 Windows和Office"
+title: 使用路由器Padavan老毛子固件开启本地KMS激活 Windows和Office
 date: 2021-03-14
-categories: 
-  - "技术"
-tags: 
-  - "kms"
-  - "windows"
-  - "网站"
-  - "路由器"
+categories:
+- 技术
+tags:
+- KMS激活
+- windows
+- 网站
+- 路由器
 ---
-
 padavan老毛子固件可以使用KMS服务，kms服务可以帮助激活windows和office，之前有写过文章讲如何使用服务器搭建kms服务：
 
 # [Linux安装KMS激活地址服务](http://www.demon1630.cn/linux%e5%ae%89%e8%a3%85kms%e6%bf%80%e6%b4%bb%e5%9c%b0%e5%9d%80%e6%9c%8d%e5%8a%a1/)

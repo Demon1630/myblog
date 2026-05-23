@@ -1,15 +1,12 @@
 ---
-title: "使用python设置excel单元格格式为常规、日期、数字"
+title: 使用python设置excel单元格格式为常规、日期、数字
 date: 2021-12-21
-categories: 
-  - "python"
-tags: 
-  - "excel"
-  - "python"
-  - "scr"
-  - "tor"
+categories:
+- python
+tags:
+- excel
+- python
 ---
-
 使用openpyxl来设置Excel单元格的格式，总结如下：
 
 一、导入：

@@ -1,18 +1,13 @@
 ---
-title: "sndcpy将手机声音投送到电脑上"
+title: sndcpy将手机声音投送到电脑上
 date: 2021-05-05
-categories: 
-  - "技术"
-  - "推荐软件"
-tags: 
-  - "scr"
-  - "scrcpy"
-  - "sndcpy"
-  - "声音"
-  - "手机投屏"
-  - "投屏"
+categories:
+- 技术
+- 推荐软件
+tags:
+- 投屏
+- 声音
 ---
-
 前面文章中讲述了如何使用scrcpy将手机投屏到电脑：
 
 # [使用scrcpy将手机投屏到电脑上](http://www.demon1630.cn/%e4%bd%bf%e7%94%a8scrcpy%e5%b0%86%e6%89%8b%e6%9c%ba%e6%8a%95%e5%b1%8f%e5%88%b0%e7%94%b5%e8%84%91%e4%b8%8a/)

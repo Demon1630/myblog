@@ -1,19 +1,16 @@
 ---
-title: "树莓派3b+安装luci版openwrt解决无法连接网络并配置v2ray"
+title: 树莓派3b+安装luci版openwrt解决无法连接网络并配置v2ray
 date: 2021-10-17
-categories: 
-  - "技术"
-  - "树莓派"
-tags: 
-  - "openwrt"
-  - "tor"
-  - "v2ray"
-  - "word"
-  - "密码"
-  - "树莓派"
-  - "路由器"
+categories:
+- 技术
+- 树莓派
+tags:
+- openwrt
+- v2ray
+- 密码
+- 树莓派
+- 路由器
 ---
-
 之前有写文章讲如何使用树莓派安装openwrt，参考文章：
 
 # [树莓派3b+安装openwrt并进行配置](http://www.demon1630.cn/%e6%a0%91%e8%8e%93%e6%b4%be3b%e5%ae%89%e8%a3%85openwrt%e5%b9%b6%e8%bf%9b%e8%a1%8c%e9%85%8d%e7%bd%ae/)
